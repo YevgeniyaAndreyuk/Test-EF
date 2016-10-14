@@ -1,0 +1,13 @@
+c:\users\yevgeniya_andreyuk\documents\visual studio 2015\Projects\Test EF\Test EF\bin\Debug\Test EF.exe.config
+c:\users\yevgeniya_andreyuk\documents\visual studio 2015\Projects\Test EF\Test EF\bin\Debug\Test EF.exe
+c:\users\yevgeniya_andreyuk\documents\visual studio 2015\Projects\Test EF\Test EF\bin\Debug\Test EF.pdb
+c:\users\yevgeniya_andreyuk\documents\visual studio 2015\Projects\Test EF\Test EF\bin\Debug\EntityFramework.dll
+c:\users\yevgeniya_andreyuk\documents\visual studio 2015\Projects\Test EF\Test EF\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\yevgeniya_andreyuk\documents\visual studio 2015\Projects\Test EF\Test EF\bin\Debug\EntityFramework.xml
+c:\users\yevgeniya_andreyuk\documents\visual studio 2015\Projects\Test EF\Test EF\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\yevgeniya_andreyuk\documents\visual studio 2015\Projects\Test EF\Test EF\obj\Debug\Test EF.csprojResolveAssemblyReference.cache
+c:\users\yevgeniya_andreyuk\documents\visual studio 2015\Projects\Test EF\Test EF\obj\Debug\Test EF.exe
+c:\users\yevgeniya_andreyuk\documents\visual studio 2015\Projects\Test EF\Test EF\obj\Debug\Test EF.pdb
+c:\users\yevgeniya_andreyuk\documents\visual studio 2015\Projects\Test EF\Test EF\obj\Debug\Test_EF.Migrations.InitialCreate.resources
+c:\users\yevgeniya_andreyuk\documents\visual studio 2015\Projects\Test EF\Test EF\obj\Debug\Test EF.csproj.GenerateResource.Cache
+c:\users\yevgeniya_andreyuk\documents\visual studio 2015\Projects\Test EF\Test EF\obj\Debug\Test_EF.Migrations.First.resources
